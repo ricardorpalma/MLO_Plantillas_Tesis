@@ -2,7 +2,7 @@
 Curso Calidad de la Investigación - Plantilla de Tesis
 <hr>
 
-# Descrición:
+# Descripción:
 
 En este repositorio encontrarás las plantillas de tesis para la Maestría en Logística de la UNCuyo.
 
